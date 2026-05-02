@@ -1,5 +1,5 @@
 pyscopg
-pyscopg[binary]
+pyscopg_binary
 google-generativeai
 groq
 pillow
