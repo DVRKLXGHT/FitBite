@@ -2,4 +2,4 @@ google-generativeai
 groq
 pillow
 reportlab
-pyscopg==3.3.4
+pyscopg[binary]==3.3.4
