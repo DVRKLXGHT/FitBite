@@ -1,0 +1,12 @@
+1- Building AI nutrition plan based on age, weight, height, goal, etc.
+2- Calculate calories in the entered food (As text, or image)
+3- Calculate InBody, water intake, Fitness level
+4- Exercises AI plan maker
+5- Nearerst gym finder or based on rating or reviews
+6- Nutrition weekly, monthly plan (Meals, desserts)
+7- Smart Kitchen Mode Personalized Recipe Generator from
+ "Leftovers" -> Users can input what ingredients are left in their fridge 
+ (via text or photo), and the AI generates healthy, 
+ custom recipes that fit their nutritional goals
+8- Virtual AI Nutritionist Chatbot
+
