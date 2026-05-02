@@ -1,0 +1,6 @@
+pyscopg
+google-generativeai
+groq
+pillow
+reportlab
+pyscopg[binary]
